@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahboobBiswas
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning enreal engine and C++.
-- 💞️ I’m looking to collaborate on making games.
+- 👀 I’m interested in Compiler Design
+- 🌱 I’m currently learning CPU architecture and C++.
+- 💞️ I’m looking to collaborate on good compiler for fast execution of program.
 - 📫 How to reach me iamcodefailure@gmail.com
 
 <!---
