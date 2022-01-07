@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahboobBiswas
 - 👀 I’m interested in Compiler Design
-- 🌱 I’m currently a Front-End Developer.
+- 🌱 I’m a Front-End Developer.
 - 💞️ I’m looking to collaborate with creative people.
 - 📫 How to reach me iamcodefailure@gmail.com
 
