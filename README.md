@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahboobBiswas
 - 👀 I’m interested in Compiler Design
-- 🌱 I’m currently learning CPU architecture and C++.
-- 💞️ I’m looking to collaborate on good compiler for fast execution of program.
+- 🌱 I’m currently a Front-End Developer.
+- 💞️ I’m looking to collaborate with creative people.
 - 📫 How to reach me iamcodefailure@gmail.com
 
 <!---
